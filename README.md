@@ -187,3 +187,5 @@ runs 4 browsers simultaneously
 | backstopjs | fast | medium | free |
 
 MIT • [github](https://github.com/visual-test/comprast) • [docs](https://comprast.io/docs)
+
+# PR Merge: 2025-11-01 10:36:49
